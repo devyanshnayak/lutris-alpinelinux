@@ -1,3 +1,4 @@
+## \\this project is under devlopment and currently doesnt install pakages
 # lutris-alpinelinux
 I was using alpine linux as a main OS with kde but Its community and other repos doesn't have lutris
 so here is apkbuild file for alpine linux
